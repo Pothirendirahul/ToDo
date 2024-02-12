@@ -98,3 +98,9 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+    text-align: center;
+    margin-top: 20px;
+}
